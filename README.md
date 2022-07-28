@@ -1,10 +1,9 @@
-# School::Library
+# Solver::TDD
 
-This repo contains code that helps manage a school library the user can do the following:
-
-* Add new students or teachers.
-* Add new books.
-* Save records of who borrowed a given book and when.
+This project is built with Test Drive Development design users can do the following:
+* Get factorial of a number
+* Reverse a word
+* Play fizzbuzz game.
 
 ## Made using
 
@@ -14,11 +13,11 @@ This repo contains code that helps manage a school library the user can do the f
 
 To get a local copy up and running follow these simple example steps.
 
-- Copy this link `https://github.com/kelvinbush/school-library.git`.
+- Copy this link `https://github.com/kelvinbush/solver-tdd.git`.
 - Get the directory that you want to clone the repository.
 - Open the command prompt in this directory.
-- Write `https://github.com/kelvinbush/school-library.git`.
-- Go to the repository folder in your command prompt `cd school-library`.
+- Write `git clone https://github.com/kelvinbush/solver-tdd.git`.
+- Go to the repository folder in your command prompt `cd solver-tdd`.
 - run `bundle install` to install rubocop dependencies
 - run `rspec` to run the tests.
 
