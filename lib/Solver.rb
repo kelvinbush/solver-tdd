@@ -5,4 +5,7 @@ class Solver
 
     num.zero? ? 1 : num * factorial(num - 1)
   end
+  def reverse(str)
+    str.to_s.reverse
+  end
 end
