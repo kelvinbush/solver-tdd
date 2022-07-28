@@ -1,37 +1,56 @@
-# Solver
+# Solver::TDD
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/Solver`. To experiment with that code, run `bin/console` for an interactive prompt.
+This project is built with Test Drive Development design users can do the following:
+* Get factorial of a number
+* Reverse a word
+* Play fizzbuzz game.
 
-TODO: Delete this and the text above, and describe your gem
+## Made using
 
-## Installation
+- Ruby
 
-Install the gem and add to the application's Gemfile by executing:
+## Getting Started
 
-    $ bundle add Solver
+To get a local copy up and running follow these simple example steps.
 
-If bundler is not being used to manage dependencies, install the gem by executing:
+- Copy this link `https://github.com/kelvinbush/solver-tdd.git`.
+- Get the directory that you want to clone the repository.
+- Open the command prompt in this directory.
+- Write `git clone https://github.com/kelvinbush/solver-tdd.git`.
+- Go to the repository folder in your command prompt `cd solver-tdd`.
+- run `bundle install` to install rubocop dependencies
+- run `rspec` to run the tests.
 
-    $ gem install Solver
+## Authors
 
-## Usage
+👤 **Kelvin Bush**
 
-TODO: Write usage instructions here
+- GitHub: [@kelvinbush](https://github.com/kelvinbush)
+- Twitter: [@kelvin_bush_](https://twitter.com/kelvin_bush_)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kelvin-wachiye-04b469173/)
 
-## Development
+👤 **Leonard Kombo**
 
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
+- GitHub: [@leonardkombo](https://github.com/leonard33)
+- Twitter: [@leonard_kombo_](https://twitter.com/leonardkombo1)
+- LinkedIn: [Leonard LinkedIn](https://www.linkedin.com/in/leonardkombo/)
 
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and the created tag, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+## 🤝 Contributing
 
-## Contributing
+Contributions, issues, and feature requests are welcome!
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/Solver. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/Solver/blob/master/CODE_OF_CONDUCT.md).
+Feel free to check the [issues page](../../issues/).
 
-## License
+## Show your support
 
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+Give a ⭐️ if you like this project!
 
-## Code of Conduct
+## Acknowledgments
 
-Everyone interacting in the Solver project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/Solver/blob/master/CODE_OF_CONDUCT.md).
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
