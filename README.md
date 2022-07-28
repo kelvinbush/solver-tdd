@@ -1,37 +1,57 @@
-# Solver
+# School::Library
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/Solver`. To experiment with that code, run `bin/console` for an interactive prompt.
+This repo contains code that helps manage a school library the user can do the following:
 
-TODO: Delete this and the text above, and describe your gem
+* Add new students or teachers.
+* Add new books.
+* Save records of who borrowed a given book and when.
 
-## Installation
+## Made using
 
-Install the gem and add to the application's Gemfile by executing:
+- Ruby
 
-    $ bundle add Solver
+## Getting Started
 
-If bundler is not being used to manage dependencies, install the gem by executing:
+To get a local copy up and running follow these simple example steps.
 
-    $ gem install Solver
+- Copy this link `https://github.com/kelvinbush/school-library.git`.
+- Get the directory that you want to clone the repository.
+- Open the command prompt in this directory.
+- Write `https://github.com/kelvinbush/school-library.git`.
+- Go to the repository folder in your command prompt `cd school-library`.
+- run `bundle install` to install rubocop dependencies
+- run `rspec` to run the tests.
 
-## Usage
+## Authors
 
-TODO: Write usage instructions here
+👤 **Kelvin Bush**
 
-## Development
+- GitHub: [@kelvinbush](https://github.com/kelvinbush)
+- Twitter: [@kelvin_bush_](https://twitter.com/kelvin_bush_)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kelvin-wachiye-04b469173/)
 
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
+👤 **Leonard Kombo**
 
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and the created tag, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+- GitHub: [@leonardkombo](https://github.com/leonard33)
+- Twitter: [@leonard_kombo_](https://twitter.com/leonardkombo1)
+- LinkedIn: [Leonard LinkedIn](https://www.linkedin.com/in/leonardkombo/)
 
-## Contributing
+## 🤝 Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/Solver. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/Solver/blob/master/CODE_OF_CONDUCT.md).
+Contributions, issues, and feature requests are welcome!
 
-## License
+Feel free to check the [issues page](../../issues/).
 
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+## Show your support
 
-## Code of Conduct
+Give a ⭐️ if you like this project!
 
-Everyone interacting in the Solver project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/Solver/blob/master/CODE_OF_CONDUCT.md).
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
