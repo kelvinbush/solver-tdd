@@ -9,7 +9,7 @@ RSpec.describe 'Solver' do
     end
 
     it 'should throw error when negative is given' do
-      expect(@solver.factorial(-7)).to raise_error(RangeError, 'A negative number is not allowed')
+      expect { @solver.factorial(-7) }.to raise_error(RangeError, 'A negative number is not allowed')
     end
   end
 
