@@ -12,4 +12,10 @@ RSpec.describe 'Solver' do
       expect(@solver.factorial(-7)).to raise_error(RangeError, 'A negative number is not allowed')
     end
   end
+
+  context 'should handle reverse function' do
+    it 'should return the reversed word' do
+      expect(@solver.reverse("John")).to eq 'nhoJ'
+    end
+  end
 end
