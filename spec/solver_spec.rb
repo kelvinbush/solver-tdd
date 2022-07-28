@@ -27,12 +27,11 @@ RSpec.describe 'Solver' do
     it 'should return number if not divisible by 3 and 5' do
       expect(@solver.fizzbuzz(13)).to eq '13'
     end
-
   end
 
   context 'should handle reverse function' do
     it 'should return the reversed word' do
-      expect(@solver.reverse("John")).to eq 'nhoJ'
+      expect(@solver.reverse('John')).to eq 'nhoJ'
     end
   end
 end
